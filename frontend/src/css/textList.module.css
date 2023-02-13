@@ -1,0 +1,10 @@
+.show {
+    background-color: rgba(178, 146, 146, 0.744);
+    padding: 1rem;
+    border: 2px solid white;
+    border-radius: 1rem;
+}
+h1 {
+    text-align: center;
+    color: blue
+}
